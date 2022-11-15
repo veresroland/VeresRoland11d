@@ -1,0 +1,93 @@
+body
+{
+    color: #FFFFFF;
+    background-image: url('hatter.png');
+}
+
+#kulsotabla
+{
+    width: 1000px;
+    border-spacing: 0;
+    border: none;
+    text-align: left;
+    padding: 5px;
+    
+}
+
+.tdszel
+{
+    width: 120px;
+}
+
+.h2kozep
+{
+    text-align: center;
+}
+
+.tdkozep
+{
+    text-align: center;
+}
+
+.pkozep
+{
+    text-align: center;
+}
+
+#egymadar
+{
+    width: 200px;
+    height: 275px;
+}
+
+#belsotabla
+{
+    margin: auto;
+    border-spacing: 0;
+    padding: 5px;
+}
+
+.harommadar
+{
+    width: 200px;
+    height: 275px;
+    padding: 5px;
+}
+
+.vonalszel
+{
+    width: 80%;
+}
+
+.vonalkozep
+{
+    float: center;
+}
+
+.pkizart
+{
+    text-align: justify;
+}
+
+.dolt
+{
+    font-style: italic;
+}
+
+#felkover
+{
+    font-weight: bold;
+}
+
+.nyilak, a:visited
+{
+    text-decoration: none;
+    font-size: 50px;
+    color: blue;
+    background-color: pink;
+}
+
+#jobbnyil
+{
+    float: right;
+}
